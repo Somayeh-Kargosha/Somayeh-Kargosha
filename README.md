@@ -11,7 +11,10 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/somayeh_kargosha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somayeh-kargosha-a2baab266/) 
+
 <br/>
+
+---
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320"/>
 
