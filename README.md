@@ -12,6 +12,27 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/somayeh_kargosha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somayeh-kargosha-a2baab266/) 
 
+<br/>
+
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320"/>
+
+
+### Talking about Personal Stuffs:
+    
+-   🛠  I’m currently working with ReactJS, Javascrip, Sass, Tailwind , etc.
+-   🚀 I’m currently learning Next.js & Postman.
+-   👯 I’m looking to collaborate with other programmers.
+-   🥅 2023 Goals: Learn more about web3 and learn react native.
+-   💬 Ask me about anything here! I am happy to help.
+-   👾 Fun fact: Equal is Not Always Equal in Javascript.
+-   📧 How to reach me: salimi.devop@gmail.com.
+-   🌐 Check out my portfolio site: [Mehdi Salimi](https://mehdisalimi.com)
+
+<br />
+
+---
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 # 📊 GitHub Stats:
