@@ -11,13 +11,12 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/somayeh_kargosha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somayeh-kargosha-a2baab266/) 
-
+<br/>
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320"/>
 
 
 ### Talking about Personal Stuffs:
-
     
 -   🛠  I’m currently working with ReactJS, Javascrip, Sass, Tailwind , etc.
 -   🚀 I’m currently learning Next.js & Postman.
@@ -27,7 +26,9 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 -   👾 Fun fact: Equal is Not Always Equal in Javascript.
 -   📧 How to reach me: salimi.devop@gmail.com.
 -   🌐 Check out my portfolio site: [Mehdi Salimi](https://mehdisalimi.com)
--   
+<br />
+
+---
 
 
 # 💻 Tech Stack:
