@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 
-I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-I'm a passionate learner who's always willing to learn <br/> and work. I love to explore new technologies and I'm currently into Web Development 🕸️
+I am a Junior Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I'm a passionate learner who's always willing to learn <br/> and work. I love to explore new technologies and I'm currently into Web Development 🕸️. Apart from Tech I was an English teacher about two years and that was a great experience in my life.
 
 
 
