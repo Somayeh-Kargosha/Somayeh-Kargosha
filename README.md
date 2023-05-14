@@ -17,6 +17,7 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 
 
 ### Talking about Personal Stuffs:
+
     
 -   🛠  I’m currently working with ReactJS, Javascrip, Sass, Tailwind , etc.
 -   🚀 I’m currently learning Next.js & Postman.
@@ -26,6 +27,7 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 -   👾 Fun fact: Equal is Not Always Equal in Javascript.
 -   📧 How to reach me: salimi.devop@gmail.com.
 -   🌐 Check out my portfolio site: [Mehdi Salimi](https://mehdisalimi.com)
+-   
 
 
 # 💻 Tech Stack:
