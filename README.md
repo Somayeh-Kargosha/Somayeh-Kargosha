@@ -1,4 +1,12 @@
-### Hi there friends 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+%F0%9F%91%8B;This+is+Mehdi+Salimi;Thanks+for+visiting+my+Github!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30%22">
+</h1>
+
+###  About Me:
+
+I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I'm a passionate learner who's always willing to learn <br/> and work across technologies and domains 💡I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️
+
 
 <!--
 **Somayeh-Kargosha/Somayeh-Kargosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
