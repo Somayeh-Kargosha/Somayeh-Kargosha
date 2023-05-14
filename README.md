@@ -21,14 +21,13 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 ### Talking about Personal Stuffs:
 
     
--   🛠  I’m currently working with ReactJS, Javascrip, Sass, Tailwind , etc.
--   🚀 I’m currently learning Next.js & Postman.
+-   🛠  I’m currently working with Javascrip, Html, Css.
+-   🚀 I’m currently learning React.js.
 -   👯 I’m looking to collaborate with other programmers.
--   🥅 2023 Goals: Learn more about web3 and learn react native.
--   💬 Ask me about anything here! I am happy to help.
+-   🥅 2023 Goals: Learn more about JavaScript and learn React.js.
 -   👾 Fun fact: Equal is Not Always Equal in Javascript.
--   📧 How to reach me: salimi.devop@gmail.com.
--   🌐 Check out my portfolio site: [Mehdi Salimi](https://mehdisalimi.com)
+-   📧 How to reach me: somayehkargosha@gmail.com.
+-   🌐 Check out my portfolio site:
 <br />
 
 ---
