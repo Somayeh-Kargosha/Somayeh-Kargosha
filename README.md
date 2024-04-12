@@ -35,6 +35,7 @@ I'm a passionate learner who's always willing to learn <br/> and work. I love to
 -   👾 Fun fact: Equal is Not Always Equal in Javascript.
 -   📧 How to reach me: somayehkargosha@gmail.com.
 -   🌐 Check out my portfolio site:
+-   https://somayeh-kargosha-portfolio.netlify.app
 <br />
 
 ---
